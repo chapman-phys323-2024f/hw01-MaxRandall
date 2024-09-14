@@ -1,7 +1,7 @@
 # PHYS323 HW 01
 
 **Author:** 
-CHANGEME
+Max Randall
 
 ## Specification
 
@@ -15,7 +15,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**I learned some markdown syntax.**
 
 ## Honor Pledge
 
